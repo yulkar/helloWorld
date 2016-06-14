@@ -19,6 +19,8 @@ public class HelloWorld {
 		{
 			System.out.println("Hello "+w.getName()+", have a nice day!");
 		}
+		
+		System.out.println("\nTest 1");
 	}
 
 }
